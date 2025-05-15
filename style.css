@@ -1,0 +1,28 @@
+body
+{
+	background-color: #FAF8EC; /*indique la couleur de fond de la page web*/
+}
+
+p, h1, h2
+{
+	font-family: verdana; /*Cette police de caractère sera appliquée aux trois balises*/
+}
+
+
+p
+{
+	font-size: medium; /*Indique la taille des caractères dans les paragraphes*/
+	text-align: justify;/*Indique le type d'alignement du texte dans les paragraphes*/
+}
+
+h1
+{
+	font-size: xx-large;
+	color: silver;
+}
+
+h2
+{
+	font-size: large;
+	color: grey;
+}
